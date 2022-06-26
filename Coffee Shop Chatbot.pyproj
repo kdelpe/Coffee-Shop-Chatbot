@@ -21,6 +21,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="classes.py" />
     <Compile Include="Coffee_Shop_Chatbot.py" />
     <Compile Include="specific_orders.py" />
     <Compile Include="utilities.py" />
