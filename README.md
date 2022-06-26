@@ -34,4 +34,5 @@
 * Eventually a more interactive GUI will allow for easier customer facing design and navigation
 
 ### Interactive Prototype
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/76190200/175833365-6d3b4d79-9b78-48a3-83d7-147bd322d6a2.gif)
 
